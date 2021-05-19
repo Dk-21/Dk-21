@@ -1,5 +1,6 @@
 ### Hi there 👋❤️
 
+<img src="https://media.giphy.com/media/11JTxkrmq4bGE0/source.gif" alt="Welcome!" width="500" align="centre" />
 
 ** Welcome to Dk-21 world! 🌎 ** 
 
