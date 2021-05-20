@@ -19,5 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dk-21&background=126e82&dates=FA8C00" alt="Dk-21" /></p>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dk-21&style=flat-square&color=126e82" alt="Profile View">
+</div>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dk-21&background=6e7582" alt="Dk-21" /></p>
+
