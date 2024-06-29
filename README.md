@@ -5,7 +5,7 @@
 
 ---
 
-** 👋 Welcome to Denish's Code Haven! 🚀 ** 
+**👋 Welcome to Denish's Code Haven! 🚀**  
 Hey there! I'm Denish Kalariya, a passionate Computer Science Graduate Student from the University of Texas at Dallas. Dive into my world of coding, creativity, and innovation.
 
 ** About Me **
