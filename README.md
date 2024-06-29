@@ -8,7 +8,7 @@
 **👋 Welcome to Denish's Code Haven! 🚀**  
 Hey there! I'm Denish Kalariya, a passionate Computer Science Graduate Student from the University of Texas at Dallas. Dive into my world of coding, creativity, and innovation.
 
-** About Me **
+**About Me**
 
 🎓 Academic Journey: Proudly pursuing a Master of Science in Computer Science with a stellar GPA of 4.0.
 📚 Current Learning Adventures:
@@ -16,7 +16,7 @@ Machine Learning 🤖: Crafting intelligent systems that learn and evolve.
 Artificial Intelligence 💻: Creating smart solutions for complex problems.
 MERN Stack: Building full-stack web applications with MongoDB, Express.js, React, and Node.js.
 
- ** What I'm Up To **
+ **What I'm Up To**
 👯 Collaboration Goals:
 - AI and Machine Learning marvels
 - Cutting-edge MERN stack projects
