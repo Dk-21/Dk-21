@@ -35,7 +35,7 @@ MERN Stack: Building full-stack web applications with MongoDB, Express.js, React
 - 💼 LinkedIn: linkedin.com/in/denishkalariya
 - 💻 GitHub: github.com/Dk-21
 
-⚡ Fun Tidbits
+**⚡ Fun Tidbits**
 😄 Pronouns: He/Him
 🌟 Fun Fact: Did you know? I optimized a payment service's microservices architecture, reducing transaction errors by 20%! 🚀
 
