@@ -31,9 +31,9 @@ MERN Stack: Building full-stack web applications with MongoDB, Express.js, React
 - Web Development with React, Node.js, and Django
 
 📬 Connect with Me
-- 📧 Email: denishkalariya21@gmail.com
-- 💼 LinkedIn: linkedin.com/in/denishkalariya
-- 💻 GitHub: github.com/Dk-21
+- **📧 Email**: [denishkalariya21@gmail.com](mailto:denishkalariya21@gmail.com)
+- **💼 LinkedIn**: [linkedin.com/in/denishkalariya](https://www.linkedin.com/in/denishkalariya/)
+- **💻 GitHub**: [github.com/Dk-21](https://github.com/Dk-21)
 
 **⚡ Fun Tidbits**
 - 😄 Pronouns: He/Him
