@@ -1,11 +1,11 @@
-### Hi there 👋❤️
+**👋 Welcome to Denish's Code Haven! 🚀**
 <div align="center">
 <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/source.gif" alt="Welcome!" width="500" />
 </div>
 
 ---
 
-**👋 Welcome to Denish's Code Haven! 🚀**  
+  
 Hey there! I'm Denish Kalariya, a passionate Computer Science Graduate Student from the University of Texas at Dallas. Dive into my world of coding, creativity, and innovation.
 
 **About Me**
