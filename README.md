@@ -36,8 +36,8 @@ MERN Stack: Building full-stack web applications with MongoDB, Express.js, React
 - 💻 GitHub: github.com/Dk-21
 
 **⚡ Fun Tidbits**
-😄 Pronouns: He/Him
-🌟 Fun Fact: Did you know? I optimized a payment service's microservices architecture, reducing transaction errors by 20%! 🚀
+- 😄 Pronouns: He/Him
+- 🌟 Fun Fact: Did you know? I optimized a payment service's microservices architecture, reducing transaction errors by 20%! 🚀
 
 Feel free to explore my repositories, star the projects you like, and let's create something amazing together. Happy coding! 🌟
 <div align="center">
