@@ -11,6 +11,7 @@ Hey there! I'm Denish Kalariya, a passionate Computer Science Graduated Student 
 **About Me**
 
 🎓 Academic Journey: Proudly pursuing a Master of Science in Computer Science with a stellar GPA of 4.0.
+
 📚 Current Learning Adventures:
 - Machine Learning 🤖: Crafting intelligent systems that learn and evolve.
 - Artificial Intelligence 💻: Creating smart solutions for complex problems.
